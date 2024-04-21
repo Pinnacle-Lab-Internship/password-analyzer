@@ -7,7 +7,7 @@ print_usage() {
     echo "Options:"
     echo "  -f <file>      Specify the location of the common passwords file"
     echo "                 Default location is: $COMMON_PASSWORDS_FILE"
-    echo "  -h / --help    Prints all the options/help menu"
+    echo "  -h / --help    Prints all the options with Uasge"
     exit 1
 }
 
